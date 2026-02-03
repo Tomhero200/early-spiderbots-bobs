@@ -3,3 +3,8 @@ Version: 1.0.0
 Date: 22nd February 2025
   General:
     - Initial release.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 3rd February 2026
+  General:
+    - Update to Factorio 2.0
